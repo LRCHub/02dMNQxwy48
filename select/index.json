@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "You Are Not Alone",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2025-12-14T19:03:43.175468Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Are Not Alone",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/01_You_Are_Not_Alone_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Are Not Alone",
+      "artist": "Deorro",
+      "has_synced": true,
+      "path": "select/02_You_Are_Not_Alone_Deorro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Are Not Alone",
+      "artist": "CRS",
+      "has_synced": true,
+      "path": "select/03_You_Are_Not_Alone_CRS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YOU ARE NOT ALONE",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/04_YOU_ARE_NOT_ALONE_杏里.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Are Not Alone",
+      "artist": "Krezip",
+      "has_synced": true,
+      "path": "select/05_You_Are_Not_Alone_Krezip.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You are not alone",
+      "artist": "Anri",
+      "has_synced": false,
+      "path": "select/06_You_are_not_alone_Anri.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Are Not Alone",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/07_You_Are_Not_Alone_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "YOU ARE NOT ALONE",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/08_YOU_ARE_NOT_ALONE_杏里.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Are Not Alone",
+      "artist": "Verschiedene",
+      "has_synced": false,
+      "path": "select/09_You_Are_Not_Alone_Verschiedene.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Are Not Alone",
+      "artist": "Mason",
+      "has_synced": false,
+      "path": "select/10_You_Are_Not_Alone_Mason.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You are (not) alone.",
+      "artist": "Крест",
+      "has_synced": false,
+      "path": "select/11_You_are_(not)_alone._Крест.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Are Not Alone",
+      "artist": "Lil' Kim",
+      "has_synced": true,
+      "path": "select/12_You_Are_Not_Alone_Lil'_Kim.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You Are Not Alone",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/13_You_Are_Not_Alone_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You Are Not Alone",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/14_You_Are_Not_Alone_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You are not alone",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/15_You_are_not_alone_Kumi_Koda.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "You Are Not Alone",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_You_Are_Not_Alone_Michael_Jackson.txt"
+    }
+  ]
+}
